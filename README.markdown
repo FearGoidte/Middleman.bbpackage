@@ -4,6 +4,8 @@
 
 This is a [BBEdit](http://www.barebones.com/products/bbedit/) package of scripts and clippings for use with the [Middleman](https://middlemanapp.com) static website generator.
 
+If you find this useful and want to make an addition or an improvement, all *pull requests* are gratefully received.
+
 ## Scripts
 
 * Launch preview server and open in default Web browser;
