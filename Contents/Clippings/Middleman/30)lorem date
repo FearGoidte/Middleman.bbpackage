@@ -1,0 +1,1 @@
+#INLINE#lorem.date('%A, %e %B %Y')

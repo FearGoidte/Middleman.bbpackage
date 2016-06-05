@@ -1,0 +1,1 @@
+#INLINE#<%= tag :<#element#>, :<#attribute#> => '<#attribute value#>' %>

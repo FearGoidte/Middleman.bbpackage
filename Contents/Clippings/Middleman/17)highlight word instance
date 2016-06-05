@@ -1,0 +1,1 @@
+#INLINE#highlight('#SELECTIONORPLACEHOLDER content goes here#', '<#word to highlight#>')

@@ -1,0 +1,1 @@
+#INLINE#<%= link_to '<#link text#>', '<#link address#>', :<#attribute#> => '<#attribute value#>' %>

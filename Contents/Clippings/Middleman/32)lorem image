@@ -1,0 +1,1 @@
+lorem.image('<#width#>x<#height#>', :background_color => '<#hashless hex colour#>', :color => '<#hashless hex colour#>', :text => '<#text goes here#>')

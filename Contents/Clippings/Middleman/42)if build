@@ -1,0 +1,4 @@
+#BLOCK#
+<% if build? %>
+  #SELECTIONORPLACEHOLDER content goes here#
+<% end %>
