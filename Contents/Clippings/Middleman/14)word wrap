@@ -1,1 +1,1 @@
-#INLINE#word_wrap('#SELECTIONORPLACEHOLDER content goes here#', :line_width => <#integer#>)
+#INLINE#word_wrap('#SELECTIONORPLACEHOLDER content goes here#', line_width: <#integer#>)

@@ -1,1 +1,1 @@
-#INLINE#<%= tag :<#element#>, :<#attribute#> => '<#attribute value#>' %>
+#INLINE#<%= tag :<#element#>, <#attribute#>: '<#attribute value#>' %>

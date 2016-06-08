@@ -1,1 +1,1 @@
-#INLINE#<%= mail_to "<#e-mail address#>", "<#link text#>", :subject => "<#subject text#>", :cc => '<#copy to e-mail address#>' %>
+#INLINE#<%= mail_to "<#e-mail address#>", "<#link text#>", subject: "<#subject text#>", cc: '<#copy to e-mail address#>' %>

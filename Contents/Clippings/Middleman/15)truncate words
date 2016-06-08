@@ -1,1 +1,1 @@
-#INLINE#truncate_words("#SELECTIONORPLACEHOLDER content goes here#", :length => <#integer#>)
+#INLINE#truncate_words("#SELECTIONORPLACEHOLDER content goes here#", length: <#integer#>)
