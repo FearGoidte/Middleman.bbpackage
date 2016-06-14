@@ -45,5 +45,3 @@ end tellTerminal
 getFolderPosixPath for the getFirstBbDocAlias()
 tellTerminal to "cd " & result
 tellTerminal to "middleman"
-delay 13
-do shell script "open http://localhost:4567"
