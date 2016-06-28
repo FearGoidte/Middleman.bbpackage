@@ -1,0 +1,1 @@
+#BLOCK##INDENT#<% content_tag( :<#element#>, <#attribute#>: '<#attribute value#>') { #SELECTIONORPLACEHOLDER content goes here# }
